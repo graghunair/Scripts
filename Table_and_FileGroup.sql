@@ -1,6 +1,6 @@
 /*
 		Name:		Table_and_Filegroups.sql
-		Date:		February 23rd, 2020
+		Date:		February 22nd, 2020
 		Author:		Raghu Gopalakrishnan
 		Purpose:	Get the list of tables, indexes and the corresponding Filegroup they belong to.
 */
